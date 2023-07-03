@@ -23,30 +23,30 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: rgb(164, 171, 222);
-}
+    color: rgb(202, 205, 227);
+  }
 
 h1 {
-    text-align: left;
+    text-align: center;
     font-family: 'Majestic X', sans-serif;
     font-size: 260%;
 }
 
 .RightSize {
     float: right;
-
+    
 }
 
 .forcenter {
     text-align: center;
-    font-size: 120%;
+    font-size: 240%;
 }
 
 .main {
     padding-bottom: 30px;
     padding-left: 30px;
     padding-right: 400px;
-    padding-top: 25px;
+    padding-top: 10px;
     margin: 25px;
 }
 
@@ -59,17 +59,14 @@ hr {
     display: block;
     margin: 0 center;
 }
-
 h4 {
     font-size: 200%;
 }
-
 h5 {
     font-family: 'Majestic X', sans-serif;
     font-size: 240%;
     text-align: center;
 }
-
 .txtright {
     text-align: right;
 }
